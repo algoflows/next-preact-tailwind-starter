@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "nextpreacttailwinda8d1ab40": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
