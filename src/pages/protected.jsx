@@ -10,7 +10,6 @@ export default function Protected({ authenticated, username }) {
 }
 
 export async function getServerSideProps(context) {
-  console.log(context)
   const { Auth } = withSSRContext(context)
 
   try {

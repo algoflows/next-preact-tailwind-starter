@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@aws-amplify/ui-react": "^1.2.4",
+    "@next/bundle-analyzer": "^11.0.1",
     "@react-spring/web": "^9.2.3",
     "@xstate/react": "^1.4.0",
     "aws-amplify": "^4.1.2",
@@ -27,6 +28,7 @@
     "eslint": "7.30.0",
     "eslint-config-next": "11.0.1",
     "postcss": "^8.3.5",
-    "tailwindcss": "^2.2.4"
+    "tailwindcss": "^2.2.4",
+    "webpack": "^5.42.1"
   }
 }
